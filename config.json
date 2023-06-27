@@ -1,0 +1,14 @@
+﻿{
+    "connectionString": "mongodb://localhost/node-mongo-signup-verification-api",
+    "secret": "Testme Verify",
+    "emailFrom": "service@avtarexchange.com",
+    "smtpOptions": {
+        "host": "smtp.zoho.com.au",
+        "port": 587,
+        "secure": false,
+        "auth": {
+          "user": "service@avtarexchange.com",
+          "pass": "05Zyla0421!mK0hl1"
+        }
+    }
+}
